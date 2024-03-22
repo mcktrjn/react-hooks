@@ -1,0 +1,30 @@
+{
+  "name": "@mcktrjn/react-hooks",
+  "version": "2.0.0",
+  "description": "React custom hooks for personal projects",
+  "main": "./build/index.js",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcktrjn/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "mcktrjn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcktrjn/react-hooks/issues"
+  },
+  "homepage": "https://github.com/mcktrjn/react-hooks#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.61",
+    "typescript": "^5.3.3"
+  }
+}
